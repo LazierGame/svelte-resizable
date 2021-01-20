@@ -1,0 +1,11 @@
+.DS_Store
+DS_Store
+.idea
+.vscode
+*.iml
+node_modules
+/dist/
+cypress/videos
+cypress/screenshots
+
+/.eslintcache
